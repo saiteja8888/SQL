@@ -1,6 +1,7 @@
 -- Active: 1695668200307@@127.0.0.1@3306@sakila
 -- INSERT Statement
-USE Sakila;
+USE sakila;
+
 
 CREATE TABLE ActorSample (
   actor_id smallint(5) unsigned NOT NULL AUTO_INCREMENT,
